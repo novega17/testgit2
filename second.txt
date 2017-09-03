@@ -1,5 +1,5 @@
 #This is my second upload to git for pratice of the process.
-number=input(Please enter your number?")
+number=input("Please enter your number?")
 if number==0:
 print("Your number is a whole number",number)
 elif number%2==0:
