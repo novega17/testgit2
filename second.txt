@@ -1,1 +1,9 @@
-This is my second upload to git for pratice of the process.
+#This is my second upload to git for pratice of the process.
+number=input(Please enter your number?")
+if number==0:
+print("Your number is a whole number",number)
+elif number%2==0:
+print("Your entered number is even",number)
+else:
+print("Your entered number is odd",number)
+
